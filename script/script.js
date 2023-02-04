@@ -47,7 +47,7 @@ const updateDescriptions = () => {
 };
 
 const startSlider = () => {
-  interval = setInterval(nextSlide, 3000);
+  interval = setInterval(nextSlide, 2000);
 };
 
 const stopSlider = () => {
